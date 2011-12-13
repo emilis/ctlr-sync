@@ -1,0 +1,15 @@
+{
+    "name":         "ctlr-sync",
+    "description":  "Synchronization, scheduling, etc. for RingoJS.",
+    "homepage":     "https://github.com/emilis/ctlr-sync",
+    "version": "1.0",
+    "main": "index.js",
+    "repositories": [{
+        "type":"git",
+        "url":"git://github.com/emilis/ctlr-sync.git"
+        }],
+    "maintainers":   [
+        { "name": "Emilis Dambauskas", "email": "emilis.d@gmail.com", "web": "http://emilis.github.com/" }],
+    "licenses": [
+        { "type": "GPLv3", "url": "http://www.gnu.org/licenses/gpl.txt" }]
+}
